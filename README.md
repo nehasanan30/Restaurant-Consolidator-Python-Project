@@ -1,0 +1,1 @@
+The goal of the project was to analyze restaurant data to understand customer preferences, restaurant ratings, and the factors influencing the success of various dining options, including table booking and online delivery availability.
